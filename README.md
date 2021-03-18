@@ -12,8 +12,6 @@ model output: vector containing tracked object data<br>
 weights: frozen_inference_graph.pb <br>
 
 Used NMS (non max suppression) to avoid multiple bounding boxes over single object<br>
-
-
-
 COCO is a large-scale object detection, segmentation, and captioning dataset having 80 object categories.<br>
 
+<img src="https://github.com/HarshitDolu/Object-Detection-using-COCO-dataset/blob/main/demo_img.jpg" width="900">
